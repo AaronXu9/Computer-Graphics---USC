@@ -1,3 +1,3 @@
 # Computer Graphics - USC
 
-#hw1
+# hw1
