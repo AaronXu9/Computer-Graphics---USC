@@ -1,0 +1,16 @@
+﻿  hw3.cpp
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.h(42): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: 参见“INFINITY”的前一个定义
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.cpp(371): warning C4101: “reflect_dist”: 未引用的局部变量
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.cpp(378): warning C4101: “reflect_dist”: 未引用的局部变量
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.cpp(435): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.cpp(440): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.h(125): warning C4172: 返回局部变量或临时变量的地址
+  jpeg.lib(jerror.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 
+imageIO.obj : warning LNK4075: 
+LINK : warning LNK4098: 
+  
+  
+  hw3.vcxproj -> C:\Users\Rivin\Desktop\Spring2017\CS420\hw3-HuiwenLuo\hw3-HuiwenLuo\hw3-starterCode-vs2015\hw3-starterCode\hw3-starterCode\\Bin\Debug\hw3.exe
+  hw3.vcxproj -> C:\Users\Rivin\Desktop\Spring2017\CS420\hw3-HuiwenLuo\hw3-HuiwenLuo\hw3-starterCode-vs2015\hw3-starterCode\hw3-starterCode\\Bin\Debug\hw3.pdb (Full PDB)

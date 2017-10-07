@@ -1,0 +1,15 @@
+﻿  imageIO.cpp
+  hw3.cpp
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.h(42): warning C4005: “INFINITY”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(78): note: 参见“INFINITY”的前一个定义
+hw3.cpp(371): warning C4101: “reflect_dist”: 未引用的局部变量
+hw3.cpp(378): warning C4101: “reflect_dist”: 未引用的局部变量
+hw3.cpp(435): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+hw3.cpp(440): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+  正在生成代码
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.h(125): warning C4172: 返回局部变量或临时变量的地址
+c:\users\rivin\desktop\spring2017\cs420\hw3-huiwenluo\hw3-huiwenluo\hw3-startercode-vs2015\hw3-startercode\hw3-startercode\hw3.cpp(620): warning C4700: 使用了未初始化的局部变量“start”
+  All 511 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  hw3.vcxproj -> C:\Users\Rivin\Desktop\Spring2017\CS420\hw3-HuiwenLuo\hw3-HuiwenLuo\hw3-starterCode-vs2015\hw3-starterCode\hw3-starterCode\\Bin\Release\hw3.exe
+  hw3.vcxproj -> C:\Users\Rivin\Desktop\Spring2017\CS420\hw3-HuiwenLuo\hw3-HuiwenLuo\hw3-starterCode-vs2015\hw3-starterCode\hw3-starterCode\\Bin\Release\hw3.pdb (Full PDB)
