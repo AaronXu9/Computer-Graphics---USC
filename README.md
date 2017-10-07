@@ -21,8 +21,6 @@ Extra:
 Description: In this assignment, we use Catmull-Rom splines along with OpenGL texture mapping to create a roller coaster simulation.
 
 Core Credit Features: 
-======================
-
 1. Uses OpenGL core profile, version 3.2 or higher - Y
 
 2. Completed all Levels:
@@ -47,8 +45,6 @@ Core Credit Features:
 9. Attached this ReadMe File - Y
 
 Extra Credit Features: 
-======================
-
 2. Render a Double Rail - Y
 
 4. Added OpenGl lighting - Y
@@ -58,8 +54,6 @@ Extra Credit Features:
 
 # hw3
 Core Credit Features: 
-======================
-
 1. Triangle intersection -- Y
 2. Sphere intersection  -- Y
 3. Triangle Phong shading -- Y
@@ -68,8 +62,6 @@ Core Credit Features:
 6. Still images -- Y
 
 Extra Credit Features:
-======================
-
 1. Recursive reflection  -- Y
 2. Good antialiasing -- Y 
 
