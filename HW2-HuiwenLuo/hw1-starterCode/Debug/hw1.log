@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (C:\Users\Rivin\Desktop\Spring2017\CS420\hw2-HuiwenLuo\hw2-HuiwenLuo\hw1-starterCode\\Debug\) contains files shared from another project (hw2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hw1.cpp
+hw1.cpp(261): warning C4838: 从“double”转换到“float”需要收缩转换
+hw1.cpp(261): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+hw1.cpp(268): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+hw1.cpp(347): warning C4018: “<”: 有符号/无符号不匹配
+hw1.cpp(363): warning C4305: “参数”: 从“double”到“float”截断
+hw1.cpp(717): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+hw1.cpp(732): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+hw1.cpp(789): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+hw1.cpp(822): warning C4018: “<”: 有符号/无符号不匹配
+hw1.cpp(981): warning C4305: “参数”: 从“double”到“float”截断
+hw1.cpp(997): warning C4018: “<”: 有符号/无符号不匹配
+  jpeg.lib(jerror.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 
+LINK : warning LNK4098: 
+  
+  
+  hw1.vcxproj -> C:\Users\Rivin\Desktop\Spring2017\CS420\hw2-HuiwenLuo\hw2-HuiwenLuo\hw1-starterCode\\Bin\Debug\hw1.exe
+  hw1.vcxproj -> C:\Users\Rivin\Desktop\Spring2017\CS420\hw2-HuiwenLuo\hw2-HuiwenLuo\hw1-starterCode\\Bin\Debug\hw1.pdb (Full PDB)

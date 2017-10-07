@@ -1,0 +1,14 @@
+﻿  hw1.cpp
+hw1.cpp(56): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+hw1.cpp(193): warning C4305: 'argument': truncation from 'double' to 'float'
+hw1.cpp(392): warning C4018: '<': signed/unsigned mismatch
+hw1.cpp(393): warning C4018: '<': signed/unsigned mismatch
+hw1.cpp(432): warning C4018: '<': signed/unsigned mismatch
+hw1.cpp(433): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  hw1.vcxproj -> C:\Users\Huiwen\Desktop\Spring2017\CS420\assign1_coreOpenGL_starterCode_MSVS2015\assign1_coreOpenGL_starterCode\hw1-starterCode\\Bin\Release\hw1.exe
+  hw1.vcxproj -> C:\Users\Huiwen\Desktop\Spring2017\CS420\assign1_coreOpenGL_starterCode_MSVS2015\assign1_coreOpenGL_starterCode\hw1-starterCode\\Bin\Release\hw1.pdb (Full PDB)
