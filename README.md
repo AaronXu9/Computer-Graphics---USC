@@ -10,7 +10,8 @@ or uppercase.
 2. use input from the mouse to rotate the heightfield.
 3. press CTRL on the keyboard, use mouse to translate the heightfield
 4. press SHIFT on the keyboard, use mouse to scale the heightfield.
-5. heightmap image is ./heightmap/Heightmap-color;
+5. use mouse to rotate the heightfield
+6. heightmap image is ./heightmap/Heightmap-color;
 
 Extra:
 1. Use element arrays and glDrawElements.
