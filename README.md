@@ -1,6 +1,7 @@
 # Computer Graphics - USC
 
 # hw1
+video website: https://youtu.be/asb6ZU0nIM4
 1. use input from the keyboard to change render mode, no matter what is lowercase 
 or uppercase.
    p -- point
@@ -19,6 +20,7 @@ Extra:
 3. Color the vertices based on color values taken from another image of equal size.
 
 # hw2
+video website: https://youtu.be/ZM1eLeRzoMY
 Description: In this assignment, we use Catmull-Rom splines along with OpenGL texture mapping to create a roller coaster simulation.
 
 Core Credit Features: 
@@ -54,6 +56,7 @@ Extra Credit Features:
 
 
 # hw3
+video website: https://youtu.be/c5uGDzVtCRo
 Core Credit Features: 
 1. Triangle intersection -- Y
 2. Sphere intersection  -- Y
