@@ -3,7 +3,6 @@ Assignment #3: Ray tracing
 
 
 Author		: < Huiwen Luo>
-USC ID 		: < 7619063345 >
 
 Core Credit Features: (Answer these Questions with Y/N; you can also insert comments as appropriate)
 ======================
